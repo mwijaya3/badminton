@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { firestore } from '../utils/firebase';  // Import Firestore from utils/firebase
 import { collection, addDoc, getDocs, query, where } from 'firebase/firestore';
 import { useNavigate } from 'react-router-dom'; // Import useNavigate
-import './Calendar.css';
+import '../styles/Calendar.css';
 
 const Calendar = () => {
   const [task, setTask] = useState('');

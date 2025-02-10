@@ -1,7 +1,7 @@
 import React from 'react';
 import { auth } from '../utils/firebase';  // Import auth from utils/firebase
 import { useNavigate } from 'react-router-dom'; // Import useNavigate
-import './Profile.css';
+import '../styles/Profile.css';
 
 const Profile = () => {
   const user = auth.currentUser;
