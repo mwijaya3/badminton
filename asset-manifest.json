@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/badminton/static/css/main.e6c13ad2.css",
+    "main.js": "/badminton/static/js/main.acaae4aa.js",
+    "static/js/488.7ab30151.chunk.js": "/badminton/static/js/488.7ab30151.chunk.js",
+    "index.html": "/badminton/index.html",
+    "main.e6c13ad2.css.map": "/badminton/static/css/main.e6c13ad2.css.map",
+    "main.acaae4aa.js.map": "/badminton/static/js/main.acaae4aa.js.map",
+    "488.7ab30151.chunk.js.map": "/badminton/static/js/488.7ab30151.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.acaae4aa.js"
+  ]
+}
